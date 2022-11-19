@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Dokkan-team-builder/static/css/main.ca61ac4d.css",
-    "main.js": "/Dokkan-team-builder/static/js/main.23f35921.js",
+    "main.css": "/Dokkan-team-builder/static/css/main.f92031dd.css",
+    "main.js": "/Dokkan-team-builder/static/js/main.d2007cdf.js",
     "static/js/787.bae29f6f.chunk.js": "/Dokkan-team-builder/static/js/787.bae29f6f.chunk.js",
     "index.html": "/Dokkan-team-builder/index.html",
-    "main.ca61ac4d.css.map": "/Dokkan-team-builder/static/css/main.ca61ac4d.css.map",
-    "main.23f35921.js.map": "/Dokkan-team-builder/static/js/main.23f35921.js.map",
+    "main.f92031dd.css.map": "/Dokkan-team-builder/static/css/main.f92031dd.css.map",
+    "main.d2007cdf.js.map": "/Dokkan-team-builder/static/js/main.d2007cdf.js.map",
     "787.bae29f6f.chunk.js.map": "/Dokkan-team-builder/static/js/787.bae29f6f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca61ac4d.css",
-    "static/js/main.23f35921.js"
+    "static/css/main.f92031dd.css",
+    "static/js/main.d2007cdf.js"
   ]
 }
