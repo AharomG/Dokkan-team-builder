@@ -8,7 +8,7 @@ export const AddToTeamProvider = ({children}) => {
     const reducer = (state,action) => {
         switch(action.type){
             case 'add': {
-                let exist = state.filter((el,index) => index !== 0 && el.imageURL === action.char.imageURL);
+                let exist = state.filter((el) => el.imageURL === action.char.imageURL);
                 if(!exist.length && state.length < 7){
                     return [...state, {...action.char}];
                 }
